@@ -1,6 +1,6 @@
 # ActivExtension
-Extension Chrome Activ Gaming
+Extension Google Chrome pour Activ Gaming
 
-Permet aux membres de la communauté multigaming d'accéder au site de la communauté plus facilement.
+Permet aux membres de la communauté multigaming d'accéder aux fonctionnalités du site de la communauté plus facilement.
 
-Copyright 2016 - Activ Gaming - Dekadmin
+2016 - Activ Gaming - Dekadmin
